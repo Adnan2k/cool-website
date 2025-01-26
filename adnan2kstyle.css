@@ -1,0 +1,25 @@
+/* Font styles for the h1 tag */
+h1 {
+    color: blue;
+    font-family: 'Adventure', sans-serif; /* Added fallback font */
+}
+
+/* Font styles for the h2 tag */
+h2 {
+    font-family: 'Times New Roman', sans-serif; /* Added fallback font */
+}
+
+/* Global font style for the body */
+body {
+    font-family: 'Times New Roman', serif; /* Added fallback font */
+}
+
+/* Optional: Style for your anchor links to make them stand out */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
