@@ -11,6 +11,7 @@ h2 {
 
 /* Global font style for the body */
 body {
+    color: black;
     font-family: 'Times New Roman', serif; /* Added fallback font */
 }
 
