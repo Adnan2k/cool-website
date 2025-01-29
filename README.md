@@ -31,9 +31,13 @@
             </p>
         </section>
         <figure>
-            <img src="https://e0.pxfuel.com/wallpapers/737/351/desktop-wallpaper-cool-among-us-space-background-among-us-galaxy.jpg" alt="Neat desktop wallpaper" style="float: left;">
-            
-
+          <img src="https://e0.pxfuel.com/wallpapers/737/351/desktop-wallpaper-cool-among-us-space-background-among-us-galaxy.jpg" alt="Neat desktop wallpaper" style="float: left;">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
 <p>My wallpaper.</p> <figcaption><em>No pain, no gain.</em></figcaption>
         </figure>
     </main>
