@@ -12,7 +12,7 @@
         <h2>Welcome to my corner of the internet!</h2>
     </header>
     <main>
-        <p>This is the Adnanian section of the World Wide Web. This is my first website. I'm not good at coding yet, but I'm learning!</p>
+        <p>Feast your eyes... this is theAdnanian section of the World Wide Web. This is my first website. I'm not good at coding yet, but I'm learning!</p>
         <p>One of my favorite games is <strong>Need for Madness</strong> by Radical Play LLC. You can learn more about the game on its official website: 
             <a href="https://www.radicalplay.com">radicalplay.com</a>.
         </p>
