@@ -35,9 +35,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br> 
 <p>My wallpaper.</p> <figcaption><em>No pain, no gain.</em></figcaption>
         </figure>
     </main>
