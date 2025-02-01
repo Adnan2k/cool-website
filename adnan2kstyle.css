@@ -2,25 +2,40 @@
 h1 {
     color: blue;
     font-family: 'Adventure', sans-serif; /* Added fallback font */
+    font-size: 3rem; /* Added font size */
+    margin-bottom: 0.5rem; /* Added margin for spacing */
 }
 
 /* Font styles for the h2 tag */
 h2 {
-    font-family: 'Times New Roman', sans-serif; /* Added fallback font */
+    font-family: 'Times New Roman', serif; /* Added fallback font */
+    font-size: 1.8rem; /* Set a clear font size */
+    margin-top: 0; /* Removed unnecessary margin */
+    color: #333; /* Color for better contrast */
 }
 
 /* Global font style for the body */
 body {
-    color: black;
+    background-color: aqua; /* Retained the aqua background */
     font-family: 'Times New Roman', serif; /* Added fallback font */
+    color: #333; /* Text color for readability */
+    margin: 0;
+    padding: 0;
 }
 
 /* Optional: Style for your anchor links to make them stand out */
 a {
     color: #0066cc;
     text-decoration: none;
+    font-weight: bold; /* Make links more prominent */
 }
 
 a:hover {
     text-decoration: underline;
+    color: #004c99; /* Darken the color on hover */
+}
+
+/* Adding some spacing around paragraphs */
+p {
+    margin: 1rem 0; /* Top and bottom margin for better spacing */
 }
